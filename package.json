@@ -8,6 +8,8 @@
   },
   "scripts": {
     "catalog-start": "catalog start",
-    "catalog-build": "catalog build"
+    "catalog-build": "catalog build",
+    "dev": "catalog start",
+    "build": "catalog build"
   }
 }
